@@ -1,0 +1,16 @@
+C:\Users\Joha\Desktop\curso c#\Ejercicios-forwhile-2\obj\Debug\net5.0\ejercicios-forwhile-2.csproj.AssemblyReference.cache
+C:\Users\Joha\Desktop\curso c#\Ejercicios-forwhile-2\obj\Debug\net5.0\ejercicios-forwhile-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joha\Desktop\curso c#\Ejercicios-forwhile-2\obj\Debug\net5.0\ejercicios-forwhile-2.AssemblyInfoInputs.cache
+C:\Users\Joha\Desktop\curso c#\Ejercicios-forwhile-2\obj\Debug\net5.0\ejercicios-forwhile-2.AssemblyInfo.cs
+C:\Users\Joha\Desktop\curso c#\Ejercicios-forwhile-2\obj\Debug\net5.0\ejercicios-forwhile-2.csproj.CoreCompileInputs.cache
+C:\Users\Joha\Desktop\curso c#\Ejercicios-forwhile-2\bin\Debug\net5.0\ejercicios-forwhile-2.exe
+C:\Users\Joha\Desktop\curso c#\Ejercicios-forwhile-2\bin\Debug\net5.0\ejercicios-forwhile-2.deps.json
+C:\Users\Joha\Desktop\curso c#\Ejercicios-forwhile-2\bin\Debug\net5.0\ejercicios-forwhile-2.runtimeconfig.json
+C:\Users\Joha\Desktop\curso c#\Ejercicios-forwhile-2\bin\Debug\net5.0\ejercicios-forwhile-2.runtimeconfig.dev.json
+C:\Users\Joha\Desktop\curso c#\Ejercicios-forwhile-2\bin\Debug\net5.0\ejercicios-forwhile-2.dll
+C:\Users\Joha\Desktop\curso c#\Ejercicios-forwhile-2\bin\Debug\net5.0\ref\ejercicios-forwhile-2.dll
+C:\Users\Joha\Desktop\curso c#\Ejercicios-forwhile-2\bin\Debug\net5.0\ejercicios-forwhile-2.pdb
+C:\Users\Joha\Desktop\curso c#\Ejercicios-forwhile-2\obj\Debug\net5.0\ejercicios-forwhile-2.dll
+C:\Users\Joha\Desktop\curso c#\Ejercicios-forwhile-2\obj\Debug\net5.0\ref\ejercicios-forwhile-2.dll
+C:\Users\Joha\Desktop\curso c#\Ejercicios-forwhile-2\obj\Debug\net5.0\ejercicios-forwhile-2.pdb
+C:\Users\Joha\Desktop\curso c#\Ejercicios-forwhile-2\obj\Debug\net5.0\ejercicios-forwhile-2.genruntimeconfig.cache
